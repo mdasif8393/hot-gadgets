@@ -1,0 +1,38 @@
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.image-resize{
+    width:100px;
+}
+.font-decoration ul li a{
+    font-weight: bold;
+    font-size: small;
+}
+.button-style{
+    padding: 8px 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-decoration{
+    border: none;
+    box-shadow: 3px 3px 10px lightgray;
+    border-radius: 10px;
+}
+.card-decoration img{
+    width: 200px;
+}
+h5{
+    text-align: center;
+}
+.padding-card{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
