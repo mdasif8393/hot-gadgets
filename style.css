@@ -36,3 +36,24 @@ h5{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+.see-all{
+    margin-bottom: 15px;
+    padding: 0px 5px;
+}
+.see-all p{
+    color: orange;
+    
+}
+.images{
+    width: 500px;
+}
+h6{
+    text-align: center;
+}
+.col-resize{
+    height: 250px;
+    
+}
+.decoration{
+    margin: 20px;
+}
